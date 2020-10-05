@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dragon-slayer-module/dragon-slayer-module.iml" filepath="$PROJECT_DIR$/dragon-slayer-module/dragon-slayer-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/strategy-example-dragon-slayer.iml" filepath="$PROJECT_DIR$/.idea/strategy-example-dragon-slayer.iml" />
+    </modules>
+  </component>
+</project>

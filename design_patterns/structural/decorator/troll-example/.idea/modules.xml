@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/troll-example.iml" filepath="$PROJECT_DIR$/.idea/troll-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/troll-example-decorator/troll-example-decorator.iml" filepath="$PROJECT_DIR$/troll-example-decorator/troll-example-decorator.iml" />
+    </modules>
+  </component>
+</project>
